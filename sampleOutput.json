@@ -1,0 +1,99 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": { 
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Craig Taylor",
+            "title": "Former Proteas captain Faf reveals strained relationship with Boucher, Smith in autobiography",
+            "description": "As his Proteas career wound down, former skipper of the national side Faf du Plessis says that the relationship between himself, coach Mark Boucher and then director of cricket, Graeme Smith, was strained.",
+            "url": "https://www.news24.com/sport/cricket/proteas/former-proteas-captain-faf-reveals-strained-relationship-with-boucher-smith-in-autobiography-20221023",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8818/c882521a283b41c3bdb2d6a7bba450fe.jpg",
+            "publishedAt": "2022-10-23T18:20:43+00:00",
+            "content": "Former Proteas skipper Faf du Plessis says that the relationship between himself, coach Mark Boucher and then director of cricket, Graeme Smith, was strained towards the end of his international care… [+2192 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Watch amazing finale as India beat Pakistan",
+            "description": "Watch the extraordinary finish to India's thrilling four-wicket victory over Pakistan in the T20 World Cup at the Melbourne Cricket Ground.",
+            "url": "http://www.bbc.co.uk/sport/av/cricket/63365619",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/72BA/production/_127307392_p0d90c3f.jpg",
+            "publishedAt": "2022-10-23T15:22:42.4849435Z",
+            "content": "Watch the extraordinary finish to India's thrilling four-wicket victory over Pakistan in the T20 World Cup at the Melbourne Cricket Ground.\r\nREPORT: Kohli takes India to incredible win over Pakistan\r… [+27 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "AFP",
+            "title": "Virat Kohli delivers T20 batting masterclass as India edge Pakistan in World Cup nail-biter",
+            "description": "An unbeaten 82 from Virat Kohli led India to a stunning last-ball win over Pakistan to supercharge their bid for a first Twenty20 World Cup crown since 2007 in front of 90,000 fans at the Melbourne Cricket Ground on Sunday.",
+            "url": "https://www.news24.com/sport/cricket/t20worldcup/virat-kohli-delivers-t20-batting-masterclass-as-india-edge-pakistan-in-world-cup-nail-biter-20221023",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7226/b49fa1a7109e484f8e0b8ffd637ee4da.jpg",
+            "publishedAt": "2022-10-23T14:34:22+00:00",
+            "content": "Ahmed reached his half-century before Mohammed Shami trapped him lbw, sparking a collapse with Pandya snaring Shadab Khan, Haider Ali and Mohammad Nawaz in the space of 19 runs. India also had a horr… [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Nic Savage",
+            "title": "Cricket world erupts after MCG miracle",
+            "description": "<p>Virat Kohli has pulled off a miracle in Melbourne.</p>",
+            "url": "https://www.news.com.au/sport/cricket/virat-kohli-pulls-of-mcg-miracle-as-india-clinches-famous-t20-world-cup-victory-over-pakistan/news-story/33f96ad14169598f91796c1b0e5b5b1d",
+            "urlToImage": "https://content.api.news/v3/images/bin/f5b47b66acd94c4cc1efce64af0ed7ac",
+            "publishedAt": "2022-10-23T13:35:00Z",
+            "content": "Virat Kohli has pulled off a miracle in Melbourne.\r\nThere were 90,293 spectators at the MCG on Sunday evening, but hundreds of millions of fans around the world witnessed the cricket phenom guide Ind… [+4603 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Poulomi Ghosh",
+            "title": "'What love! Why do you play cricket with Pakistan in Australia': Owaisi's dig",
+            "description": "\"What will happen if you don't play cricket with Pakistan at all? A loss of ₹1000 crore-2,000 crore of the television? Is it more than what India matters to you,\" Owaisi said. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/what-love-why-do-you-play-cricket-with-pakistan-in-australia-owaisi-s-dig-101666402977364.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/10/22/1600x900/asad_owaisi_1666403394730_1666403400535_1666403400535.JPG",
+            "publishedAt": "2022-10-22T01:54:51+00:00",
+            "content": "Ahead of the India-Pakistan in Melbourne, Hyderabad MP and AIMIM chief Asaduddin Owaisi on Friday questioned why India plays cricket with Pakistan in Australia when it decides against sending its tea… [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
+
+
